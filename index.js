@@ -96,12 +96,12 @@ jokeApp.get(
 
      response.send(page)
 
-     student.get(
-        '/student/:name', // route
-        (request, response) => { // handler callback
+    //  student.get(
+    //     '/student/:name', // route
+    //     (request, response) => { // handler callback
         
       
-     )
+     
       
     //   const message = `Welcome ${request.params.name}`
 
